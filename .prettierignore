@@ -1,0 +1,4 @@
+dist
+docs
+src/index.ts
+pnpm-lock.yaml
