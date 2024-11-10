@@ -1,5 +1,5 @@
 {
-  "name": "@obsidian/kiwidactly",
+  "name": "@kiwihosting/kiwidactyl",
   "version": "0.1.0",
-  "exports": "./index.d.ts"
+  "exports": "./mod.ts"
 }
