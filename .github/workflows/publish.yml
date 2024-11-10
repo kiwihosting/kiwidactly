@@ -14,4 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: npm install axios
-      - run: npx jsr publish
+      - run: npx jsr publish --allow-dirty
+      - run: rm -rf node_modules
